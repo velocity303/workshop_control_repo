@@ -29,3 +29,5 @@ mod 'puppetlabs/reboot'
 mod 'puppetlabs/puppetserver_gem'
 mod 'puppetlabs/gcc'
 mod 'puppetlabs/git'
+
+mod 'puppet/staging'
